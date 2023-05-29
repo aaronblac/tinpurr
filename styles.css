@@ -123,6 +123,9 @@ p {
   margin: 20px;
 }
 
+.carousel-inner{
+  height: 36rem;
+
 .carousel-item {
   padding: 7% 15%;
 }
